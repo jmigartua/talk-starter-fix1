@@ -1,13 +1,13 @@
 project:
   type: website
+  # Register the local extension so its resources and defaults are merged
 extensions:
   - _extensions/thermomat/ehu
-#  - thermomat/ehu
 
 profile:
-  group: [[standard, posit, ehu-eu, ehu-es]]
+  group:
+    - [standard, posit, ehu-eu, ehu-es]
   default: ehu-eu
-
 
 format:
   revealjs:
@@ -19,9 +19,5 @@ format:
     background-color: "#ffffff"
     width: 1600
     height: 900
-    incremental: false
-    css: [styles/local-overrides.scss]
-
-
-
-
+    # Local overrides you keep in /styles (optional)
+    css: [styles/styles.scss]
