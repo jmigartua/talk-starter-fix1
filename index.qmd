@@ -4,13 +4,14 @@ subtitle: "Six reusable slide layouts (Quarto)"
 format:
   revealjs:
     theme: [default, styles.scss]
-    css:
-      - _extensions/thermomat/ehu/styles/brand-inline-utilities.css
+#    css:
+#      - _extensions/thermomat/ehu/styles/ehu-fonts-mixed.css
+#      - _extensions/thermomat/ehu/styles/brand-inline-utilities.css
+#      - styles/styles.scss   # your local tweaks (optional)
     slide-number: true
     transition: fade
     transition-speed: default
     background-color: "#ffffff"
-# Do NOT set `brand:` here when using profiles.
 ---
 
 <!-- A1. HERO IMAGE: Title + subtitle, full-width image below -->
@@ -108,7 +109,7 @@ Use this area for brief context or keep it empty.
 ::: {.conclusion-block .fragment}
 [**< 2 hours** — from instantiation to deployment]{.mint}
 
-[**< 2 hours** — from instantiation to deployment]{style="color:red;" }
+[**< 2 hours** — from instantiation to deployment]{.coral }
 :::
 ::: {.conclusion-block .fragment}
 **Review efficiency** — faster decision-making

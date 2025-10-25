@@ -1,13 +1,13 @@
+# _quarto.yml
 project:
   type: website
-  # Register the local extension so its resources and defaults are merged
 extensions:
-  - _extensions/thermomat/ehu
+  - thermomat/ehu
 
 profile:
   group:
     - [standard, posit, ehu-eu, ehu-es]
-  default: ehu-eu
+  default: posit
 
 format:
   revealjs:
@@ -19,5 +19,7 @@ format:
     background-color: "#ffffff"
     width: 1600
     height: 900
-    # Local overrides you keep in /styles (optional)
-    css: [styles/styles.scss]
+    css:
+      - _extensions/thermomat/ehu/styles/ehu-fonts-mixed.css
+      - _extensions/thermomat/ehu/styles/brand-inline-utilities.css
+      - styles/styles.scss
