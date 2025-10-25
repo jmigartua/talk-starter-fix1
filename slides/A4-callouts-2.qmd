@@ -1,0 +1,21 @@
+## A4 · Continuation callouts
+
+::: columns
+::: {.column width="40%"}
+![](images/placeholder-4x5.svg){width="100%"}
+:::
+::: {.column width="60%"}
+::: {.callout-card .fragment}
+**Interoperability**  
+SAS ↔ R under one review surface.
+:::
+::: {.callout-card .fragment}
+**Reproducibility**  
+Pinned environments & auditable builds.
+:::
+::: {.callout-card .fragment}
+**Scalability**  
+Parent → many child apps by config.
+:::
+:::
+:::

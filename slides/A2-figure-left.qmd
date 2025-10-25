@@ -1,0 +1,13 @@
+## A2 · Figure left — message right
+
+::: columns
+::: {.column width="45%"}
+![](images/placeholder-4x5.svg){width="100%"}
+:::
+::: {.column width="55%"}
+### Headline message {.tight}
+- Supporting point {.fragment}
+- Another one {.fragment}
+- Final one {.fragment}
+:::
+:::

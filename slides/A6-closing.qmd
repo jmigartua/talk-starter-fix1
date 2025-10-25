@@ -1,0 +1,17 @@
+## A6 · Closing / credits
+
+::: columns
+::: {.column width="45%"}
+**FIRST AUTHOR**  
+first@org.org
+
+**SECOND AUTHOR**  
+second@org.org
+
+**THIRD AUTHOR**  
+third@org.org
+:::
+::: {.column width="55%"}
+![](images/placeholder-16x9.svg){width="100%"}
+:::
+:::

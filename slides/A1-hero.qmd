@@ -1,0 +1,3 @@
+## A1 · Hero slide (title + subtitle + figure)
+
+![](images/placeholder-16x9.svg){width="100%"}

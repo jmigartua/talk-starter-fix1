@@ -1,0 +1,21 @@
+## A3 · Figure left — stacked callouts
+
+::: columns
+::: {.column width="40%"}
+![](images/placeholder-4x5.svg){width="100%"}
+:::
+::: {.column width="60%"}
+::: {.callout-card .fragment}
+**Unified Environment**  
+Centralized storage + harmonized directories.
+:::
+::: {.callout-card .fragment}
+**Config-Driven Apps**  
+YAML configuration + plug-in datasets.
+:::
+::: {.callout-card .fragment}
+**Governance & Support**  
+Shared ownership + SDLC alignment.
+:::
+:::
+:::

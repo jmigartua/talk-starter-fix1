@@ -1,0 +1,21 @@
+## A5 · Conclusions as high-contrast blocks (right)
+
+::: columns
+::: {.column width="35%"}
+Optional context or empty.
+:::
+::: {.column width="65%"}
+::: {.conclusion-block .fragment}
+**UNLIMITED** outputs
+:::
+::: {.conclusion-block .fragment}
+**< 2 hours** to deploy
+:::
+::: {.conclusion-block .fragment}
+**Review efficiency**
+:::
+::: {.conclusion-block .fragment}
+**Up-versioning & visibility**
+:::
+:::
+:::
